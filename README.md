@@ -42,11 +42,12 @@ This project is a mini-website that collects and displays real-time price data f
    ```bash
    http://localhost:3000
    
-How to Use
-Open the application in your browser at http://localhost:3000.
-Click on the "Single Stock Details" button to open the modal.
-Select a new stock or cryptocurrency from the dropdown list.
-Click "Submit" to update the table with the latest 20 entries for the selected stock or cryptocurrency.
+## How to Use
+1. Open the application in your browser at `http://localhost:3000`.
+2. Click on the "Single Stock Details" button to open the modal.
+3. Select a new stock or cryptocurrency from the dropdown list.
+4. Click "Submit" to update the table with the latest 20 entries for the selected stock or cryptocurrency.
+
 
 ## Contributors
 **Narayana Bommi**
@@ -62,7 +63,7 @@ We welcome contributions from the community! Whether you've discovered a bug, ha
 
 **Submit Pull Requests:**
 
-* Help us enhance the Task Management App by submitting pull requests with your improvements.
+* Help us enhance the Real Time Stock Price Data by submitting pull requests with your improvements.
 
 **Report Issues:**
 
