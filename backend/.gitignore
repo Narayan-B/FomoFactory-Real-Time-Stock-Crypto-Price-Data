@@ -2,5 +2,5 @@
 *.log
 
 uploads/
-nodemodules/
+node_modules/
 .env
